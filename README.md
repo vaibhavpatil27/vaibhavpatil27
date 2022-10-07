@@ -1,7 +1,7 @@
 -  Hi, I’m Vaibhav Patil
 -  I’m interested in UI/UX,
 -  I’m currently learning Docker,
--  I’m looking to collaborate on JAVA, js, C, C++ or Web Projects,
+-  I’m looking to collaborate on JAVA, React.JS, C, C++ or Web Projects,
 -  You can reach me on [Twitter](https://twitter.com/vaibhavpatil_27),
 
 <!---
